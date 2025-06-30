@@ -1,0 +1,611 @@
+DATASET_COLORSTRIP
+SEPARATOR TAB
+DATASET_LABEL	Groupes parlementaires
+COLOR	#0000ff
+LEGEND_TITLE	Groupes parlementaires
+LEGEND_SCALE	1
+LEGEND_SHAPES	1	1	1	1	1	1	1	1	1	1	1
+LEGEND_COLORS	#61468F	#35495E	#E42313	#4565AD	#CE5215	#DF84B5	#32B3CA	#77AA79	#991414	#F8D434	#ffffff
+LEGEND_LABELS	Renaissance	Rassemblement National	La France insoumise - Nouvelle Union Populaire écologique et sociale	Les Républicains	Démocrate (MoDem et Indépendants)	Socialistes et apparentés (membre de l’intergroupe NUPES)	Horizons et apparentés	Écologiste - NUPES	Gauche démocrate et républicaine - NUPES	Libertés, Indépendants, Outre-mer et Territoires	Non inscrit
+DATA
+PA721908	#61468F	Renaissance
+PA942	#F8D434	Libertés, Indépendants, Outre-mer et Territoires
+PA795362	#77AA79	Écologiste - NUPES
+PA793218	#35495E	Rassemblement National
+PA342196	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA721270	#991414	Gauche démocrate et républicaine - NUPES
+PA2449	#61468F	Renaissance
+PA796026	#35495E	Rassemblement National
+PA794598	#35495E	Rassemblement National
+PA718884	#4565AD	Les Républicains
+PA721750	#61468F	Renaissance
+PA783457	#4565AD	Les Républicains
+PA720586	#4565AD	Les Républicains
+PA720386	#4565AD	Les Républicains
+PA793632	#35495E	Rassemblement National
+PA795406	#4565AD	Les Républicains
+PA721984	#CE5215	Démocrate (MoDem et Indépendants)
+PA793282	#61468F	Renaissance
+PA794846	#61468F	Renaissance
+PA721328	#61468F	Renaissance
+PA722344	#77AA79	Écologiste - NUPES
+PA610654	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA796042	#35495E	Rassemblement National
+PA793528	#61468F	Renaissance
+PA642868	#32B3CA	Horizons et apparentés
+PA712015	#4565AD	Les Républicains
+PA695100	#4565AD	Les Républicains
+PA720992	#991414	Gauche démocrate et républicaine - NUPES
+PA795786	#35495E	Rassemblement National
+PA333285	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA795708	#61468F	Renaissance
+PA774958	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA720074	#61468F	Renaissance
+PA793398	#32B3CA	Horizons et apparentés
+PA720446	#61468F	Renaissance
+PA795926	#61468F	Renaissance
+PA719512	#61468F	Renaissance
+PA793520	#CE5215	Démocrate (MoDem et Indépendants)
+PA795588	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA720932	#61468F	Renaissance
+PA642764	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA795438	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA342240	#4565AD	Les Républicains
+PA793354	#35495E	Rassemblement National
+PA720552	#32B3CA	Horizons et apparentés
+PA718978	#CE5215	Démocrate (MoDem et Indépendants)
+PA795058	#77AA79	Écologiste - NUPES
+PA794914	#4565AD	Les Républicains
+PA642988	#35495E	Rassemblement National
+PA794166	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA794178	#4565AD	Les Républicains
+PA720728	#CE5215	Démocrate (MoDem et Indépendants)
+PA795156	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA793912	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA795774	#61468F	Renaissance
+PA794194	#CE5215	Démocrate (MoDem et Indépendants)
+PA794854	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA719412	#61468F	Renaissance
+PA722150	#61468F	Renaissance
+PA719632	#61468F	Renaissance
+PA340343	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA720286	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA795778	#35495E	Rassemblement National
+PA794838	#32B3CA	Horizons et apparentés
+PA796132	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA794954	#35495E	Rassemblement National
+PA719032	#61468F	Renaissance
+PA722142	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA722110	#991414	Gauche démocrate et républicaine - NUPES
+PA796010	#991414	Gauche démocrate et républicaine - NUPES
+PA643143	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA793796	#F8D434	Libertés, Indépendants, Outre-mer et Territoires
+PA721314	#4565AD	Les Républicains
+PA722284	#CE5215	Démocrate (MoDem et Indépendants)
+PA793716	#CE5215	Démocrate (MoDem et Indépendants)
+PA793416	#61468F	Renaissance
+PA720644	#4565AD	Les Républicains
+PA721530	#CE5215	Démocrate (MoDem et Indépendants)
+PA642935	#61468F	Renaissance
+PA794286	#35495E	Rassemblement National
+PA793394	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA794974	#61468F	Renaissance
+PA267901	#4565AD	Les Républicains
+PA794886	#35495E	Rassemblement National
+PA718962	#61468F	Renaissance
+PA718838	#4565AD	Les Républicains
+PA794938	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA342384	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA720838	#991414	Gauche démocrate et républicaine - NUPES
+PA722382	#61468F	Renaissance
+PA721678	#61468F	Renaissance
+PA721916	#61468F	Renaissance
+PA795636	#77AA79	Écologiste - NUPES
+PA719664	#61468F	Renaissance
+PA718910	#61468F	Renaissance
+PA721584	#61468F	Renaissance
+PA795652	#61468F	Renaissance
+PA793688	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA794906	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA719318	#4565AD	Les Républicains
+PA330240	#4565AD	Les Républicains
+PA795430	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA794094	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA267794	#4565AD	Les Républicains
+PA795192	#991414	Gauche démocrate et républicaine - NUPES
+PA795644	#35495E	Rassemblement National
+PA795540	#35495E	Rassemblement National
+PA793876	#61468F	Renaissance
+PA722000	#61468F	Renaissance
+PA793290	#35495E	Rassemblement National
+PA266793	#4565AD	Les Républicains
+PA721202	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA719118	#61468F	Renaissance
+PA796062	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA794410	#4565AD	Les Républicains
+PA793724	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA793158	#35495E	Rassemblement National
+PA721234	#CE5215	Démocrate (MoDem et Indépendants)
+PA795084	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA719930	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA607395	#61468F	Renaissance
+PA719918	#CE5215	Démocrate (MoDem et Indépendants)
+PA330357	#61468F	Renaissance
+PA795912	#35495E	Rassemblement National
+PA335999	#77AA79	Écologiste - NUPES
+PA719338	#61468F	Renaissance
+PA793572	#32B3CA	Horizons et apparentés
+PA720630	#4565AD	Les Républicains
+PA796114	#35495E	Rassemblement National
+PA720414	#61468F	Renaissance
+PA794538	#35495E	Rassemblement National
+PA643134	#4565AD	Les Républicains
+PA719372	#61468F	Renaissance
+PA719822	#CE5215	Démocrate (MoDem et Indépendants)
+PA793588	#61468F	Renaissance
+PA794702	#CE5215	Démocrate (MoDem et Indépendants)
+PA606098	#4565AD	Les Républicains
+PA718674	#61468F	Renaissance
+PA719528	#32B3CA	Horizons et apparentés
+PA720370	#61468F	Renaissance
+PA793134	#35495E	Rassemblement National
+PA795350	#32B3CA	Horizons et apparentés
+PA795026	#32B3CA	Horizons et apparentés
+PA793672	#35495E	Rassemblement National
+PA796106	#991414	Gauche démocrate et républicaine - NUPES
+PA795076	#77AA79	Écologiste - NUPES
+PA794418	#35495E	Rassemblement National
+PA817203	#61468F	Renaissance
+PA794118	#4565AD	Les Républicains
+PA720892	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA722366	#61468F	Renaissance
+PA794878	#61468F	Renaissance
+PA712014	#61468F	Renaissance
+PA719396	#32B3CA	Horizons et apparentés
+PA793980	#77AA79	Écologiste - NUPES
+PA721844	#61468F	Renaissance
+PA606507	#61468F	Renaissance
+PA345722	#61468F	Renaissance
+PA795616	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA722308	#4565AD	Les Républicains
+PA793298	#35495E	Rassemblement National
+PA794082	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA795466	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA795240	#991414	Gauche démocrate et républicaine - NUPES
+PA793190	#61468F	Renaissance
+PA796118	#35495E	Rassemblement National
+PA721760	#CE5215	Démocrate (MoDem et Indépendants)
+PA719778	#32B3CA	Horizons et apparentés
+PA2952	#F8D434	Libertés, Indépendants, Outre-mer et Territoires
+PA1874	#4565AD	Les Républicains
+PA795354	#32B3CA	Horizons et apparentés
+PA719436	#35495E	Rassemblement National
+PA720846	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA795144	#61468F	Renaissance
+PA793230	#35495E	Rassemblement National
+PA794778	#77AA79	Écologiste - NUPES
+PA721522	#61468F	Renaissance
+PA720174	#61468F	Renaissance
+PA795958	#61468F	Renaissance
+PA793964	#35495E	Rassemblement National
+PA719968	#4565AD	Les Républicains
+PA794022	#77AA79	Écologiste - NUPES
+PA795270	#32B3CA	Horizons et apparentés
+PA608416	#4565AD	Les Républicains
+PA794638	#35495E	Rassemblement National
+PA267766	#F8D434	Libertés, Indépendants, Outre-mer et Territoires
+PA794734	#35495E	Rassemblement National
+PA795298	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA794590	#35495E	Rassemblement National
+PA722374	#CE5215	Démocrate (MoDem et Indépendants)
+PA642847	#4565AD	Les Républicains
+PA793616	#35495E	Rassemblement National
+PA267318	#61468F	Renaissance
+PA722252	#61468F	Renaissance
+PA795876	#991414	Gauche démocrate et républicaine - NUPES
+PA719286	#F8D434	Libertés, Indépendants, Outre-mer et Territoires
+PA795318	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA608016	#4565AD	Les Républicains
+PA721210	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA719154	#61468F	Renaissance
+PA793194	#61468F	Renaissance
+PA721336	#CE5215	Démocrate (MoDem et Indépendants)
+PA794982	#61468F	Renaissance
+PA720668	#35495E	Rassemblement National
+PA795216	#61468F	Renaissance
+PA794146	#77AA79	Écologiste - NUPES
+PA794686	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA266797	#4565AD	Les Républicains
+PA795762	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA794322	#35495E	Rassemblement National
+PA719718	#61468F	Renaissance
+PA677483	#61468F	Renaissance
+PA796034	#35495E	Rassemblement National
+PA720468	#35495E	Rassemblement National
+PA719080	#61468F	Renaissance
+PA795386	#61468F	Renaissance
+PA719186	#61468F	Renaissance
+PA720354	#61468F	Renaissance
+PA719874	#CE5215	Démocrate (MoDem et Indépendants)
+PA721062	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA794450	#61468F	Renaissance
+PA794894	#35495E	Rassemblement National
+PA793532	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA795836	#35495E	Rassemblement National
+PA609332	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA719550	#61468F	Renaissance
+PA721632	#61468F	Renaissance
+PA794458	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA720560	#CE5215	Démocrate (MoDem et Indépendants)
+PA793664	#77AA79	Écologiste - NUPES
+PA795908	#61468F	Renaissance
+PA794222	#35495E	Rassemblement National
+PA795730	#61468F	Renaissance
+PA718930	#61468F	Renaissance
+PA720014	#61468F	Renaissance
+PA721896	#991414	Gauche démocrate et républicaine - NUPES
+PA791824	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA796050	#35495E	Rassemblement National
+PA720162	#CE5215	Démocrate (MoDem et Indépendants)
+PA346054	#4565AD	Les Républicains
+PA795108	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA794354	#35495E	Rassemblement National
+PA793254	#35495E	Rassemblement National
+PA608172	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA719108	#61468F	Renaissance
+PA720342	#61468F	Renaissance
+PA757225	#61468F	Renaissance
+PA795998	#991414	Gauche démocrate et républicaine - NUPES
+PA795326	#61468F	Renaissance
+PA793872	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA331582	#CE5215	Démocrate (MoDem et Indépendants)
+PA719798	#61468F	Renaissance
+PA721486	#F8D434	Libertés, Indépendants, Outre-mer et Territoires
+PA1630	#4565AD	Les Républicains
+PA722134	#61468F	Renaissance
+PA793736	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA719272	#4565AD	Les Républicains
+PA791812	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA793832	#35495E	Rassemblement National
+PA795100	#CE5215	Démocrate (MoDem et Indépendants)
+PA795010	#77AA79	Écologiste - NUPES
+PA794810	#CE5215	Démocrate (MoDem et Indépendants)
+PA795934	#61468F	Renaissance
+PA794426	#32B3CA	Horizons et apparentés
+PA266788	#F8D434	Libertés, Indépendants, Outre-mer et Territoires
+PA793464	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA588884	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA793374	#35495E	Rassemblement National
+PA793330	#35495E	Rassemblement National
+PA721046	#F8D434	Libertés, Indépendants, Outre-mer et Territoires
+PA719814	#61468F	Renaissance
+PA720692	#991414	Gauche démocrate et républicaine - NUPES
+PA794786	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA720066	#61468F	Renaissance
+PA720430	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA795794	#77AA79	Écologiste - NUPES
+PA719890	#61468F	Renaissance
+PA607619	#F8D434	Libertés, Indépendants, Outre-mer et Territoires
+PA793166	#35495E	Rassemblement National
+PA794478	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA793262	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA722162	#CE5215	Démocrate (MoDem et Indépendants)
+PA610002	#77AA79	Écologiste - NUPES
+PA793940	#61468F	Renaissance
+PA794570	#35495E	Rassemblement National
+PA721426	#61468F	Renaissance
+PA793780	#77AA79	Écologiste - NUPES
+PA795974	#35495E	Rassemblement National
+PA795050	#61468F	Renaissance
+PA793928	#35495E	Rassemblement National
+PA722038	#61468F	Renaissance
+PA721852	#61468F	Renaissance
+PA795572	#61468F	Renaissance
+PA793756	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA330909	#4565AD	Les Républicains
+PA794522	#35495E	Rassemblement National
+PA334116	#61468F	Renaissance
+PA720146	#61468F	Renaissance
+PA793696	#35495E	Rassemblement National
+PA795120	#CE5215	Démocrate (MoDem et Indépendants)
+PA332228	#32B3CA	Horizons et apparentés
+PA720362	#61468F	Renaissance
+PA793444	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA794762	#35495E	Rassemblement National
+PA342415	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA793278	#61468F	Renaissance
+PA605036	#61468F	Renaissance
+PA606639	#61468F	Renaissance
+PA795454	#77AA79	Écologiste - NUPES
+PA643175	#61468F	Renaissance
+PA794658	#61468F	Renaissance
+PA608695	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA794330	#61468F	Renaissance
+PA793270	#61468F	Renaissance
+PA605694	#CE5215	Démocrate (MoDem et Indépendants)
+PA720038	#CE5215	Démocrate (MoDem et Indépendants)
+PA607090	#4565AD	Les Républicains
+PA793608	#35495E	Rassemblement National
+PA719756	#61468F	Renaissance
+PA793708	#77AA79	Écologiste - NUPES
+PA793892	#35495E	Rassemblement National
+PA793644	#CE5215	Démocrate (MoDem et Indépendants)
+PA793102	#35495E	Rassemblement National
+PA794562	#35495E	Rassemblement National
+PA721608	#CE5215	Démocrate (MoDem et Indépendants)
+PA721182	#CE5215	Démocrate (MoDem et Indépendants)
+PA794626	#F8D434	Libertés, Indépendants, Outre-mer et Territoires
+PA805166	#CE5215	Démocrate (MoDem et Indépendants)
+PA720614	#35495E	Rassemblement National
+PA793342	#4565AD	Les Républicains
+PA721024	#61468F	Renaissance
+PA722054	#61468F	Renaissance
+PA796078	#F8D434	Libertés, Indépendants, Outre-mer et Territoires
+PA718784	#4565AD	Les Républicains
+PA794470	#32B3CA	Horizons et apparentés
+PA795278	#32B3CA	Horizons et apparentés
+PA722102	#61468F	Renaissance
+PA793992	#32B3CA	Horizons et apparentés
+PA774954	#4565AD	Les Républicains
+PA795410	#35495E	Rassemblement National
+PA793146	#35495E	Rassemblement National
+PA793560	#CE5215	Démocrate (MoDem et Indépendants)
+PA795310	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA795258	#CE5215	Démocrate (MoDem et Indépendants)
+PA720704	#CE5215	Démocrate (MoDem et Indépendants)
+PA267780	#32B3CA	Horizons et apparentés
+PA340643	#61468F	Renaissance
+PA794206	#61468F	Renaissance
+PA795508	#61468F	Renaissance
+PA774962	#991414	Gauche démocrate et républicaine - NUPES
+PA793548	#35495E	Rassemblement National
+PA795966	#35495E	Rassemblement National
+PA605069	#F8D434	Libertés, Indépendants, Outre-mer et Territoires
+PA796090	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA795864	#61468F	Renaissance
+PA795868	#991414	Gauche démocrate et républicaine - NUPES
+PA720480	#61468F	Renaissance
+PA795528	#61468F	Renaissance
+PA795330	#61468F	Renaissance
+PA794802	#61468F	Renaissance
+PA720230	#32B3CA	Horizons et apparentés
+PA643157	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA793122	#CE5215	Démocrate (MoDem et Indépendants)
+PA605991	#4565AD	Les Républicains
+PA794058	#4565AD	Les Républicains
+PA718850	#4565AD	Les Républicains
+PA795820	#991414	Gauche démocrate et républicaine - NUPES
+PA722046	#61468F	Renaissance
+PA794138	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA795920	#61468F	Renaissance
+PA643089	#4565AD	Les Républicains
+PA795596	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA794004	#61468F	Renaissance
+PA795672	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA267324	#4565AD	Les Républicains
+PA794386	#61468F	Renaissance
+PA795422	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA720138	#61468F	Renaissance
+PA795950	#61468F	Renaissance
+PA719866	#61468F	Renaissance
+PA721004	#61468F	Renaissance
+PA719624	#61468F	Renaissance
+PA721960	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA794770	#35495E	Rassemblement National
+PA332523	#4565AD	Les Républicains
+PA794442	#35495E	Rassemblement National
+PA330008	#4565AD	Les Républicains
+PA719052	#32B3CA	Horizons et apparentés
+PA793314	#35495E	Rassemblement National
+PA795244	#F8D434	Libertés, Indépendants, Outre-mer et Territoires
+PA719138	#F8D434	Libertés, Indépendants, Outre-mer et Territoires
+PA605782	#32B3CA	Horizons et apparentés
+PA719922	#61468F	Renaissance
+PA718926	#991414	Gauche démocrate et républicaine - NUPES
+PA795552	#35495E	Rassemblement National
+PA795828	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA720190	#61468F	Renaissance
+PA794314	#35495E	Rassemblement National
+PA1327	#4565AD	Les Républicains
+PA720976	#F8D434	Libertés, Indépendants, Outre-mer et Territoires
+PA720222	#61468F	Renaissance
+PA2960	#61468F	Renaissance
+PA722358	#61468F	Renaissance
+PA793656	#35495E	Rassemblement National
+PA719578	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA607553	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA721296	#61468F	Renaissance
+PA793174	#991414	Gauche démocrate et républicaine - NUPES
+PA794434	#35495E	Rassemblement National
+PA721482	#61468F	Renaissance
+PA267042	#32B3CA	Horizons et apparentés
+PA721150	#61468F	Renaissance
+PA642788	#61468F	Renaissance
+PA722202	#991414	Gauche démocrate et républicaine - NUPES
+PA794008	#77AA79	Écologiste - NUPES
+PA795184	#991414	Gauche démocrate et républicaine - NUPES
+PA794650	#991414	Gauche démocrate et républicaine - NUPES
+PA609520	#61468F	Renaissance
+PA793508	#4565AD	Les Républicains
+PA794670	#35495E	Rassemblement National
+PA794038	#4565AD	Les Républicains
+PA793852	#35495E	Rassemblement National
+PA609590	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA795580	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA795266	#32B3CA	Horizons et apparentés
+PA817211	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA794154	#77AA79	Écologiste - NUPES
+PA719404	#61468F	Renaissance
+PA344201	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA346782	#4565AD	Les Républicains
+PA720772	#CE5215	Démocrate (MoDem et Indépendants)
+PA794030	#35495E	Rassemblement National
+PA793844	#35495E	Rassemblement National
+PA719202	#61468F	Renaissance
+PA720022	#61468F	Renaissance
+PA774960	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA793476	#4565AD	Les Républicains
+PA795664	#61468F	Renaissance
+PA793306	#32B3CA	Horizons et apparentés
+PA421348	#32B3CA	Horizons et apparentés
+PA719640	#CE5215	Démocrate (MoDem et Indépendants)
+PA794494	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA722336	#32B3CA	Horizons et apparentés
+PA794582	#35495E	Rassemblement National
+PA719024	#CE5215	Démocrate (MoDem et Indépendants)
+PA719600	#61468F	Renaissance
+PA793680	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA720960	#F8D434	Libertés, Indépendants, Outre-mer et Territoires
+PA795844	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA796110	#35495E	Rassemblement National
+PA335612	#991414	Gauche démocrate et républicaine - NUPES
+PA721932	#35495E	Rassemblement National
+PA721880	#61468F	Renaissance
+PA794278	#32B3CA	Horizons et apparentés
+PA717161	#61468F	Renaissance
+PA793382	#35495E	Rassemblement National
+PA720054	#61468F	Renaissance
+PA719388	#61468F	Renaissance
+PA793362	#35495E	Rassemblement National
+PA822617	#F8D434	Libertés, Indépendants, Outre-mer et Territoires
+PA795884	#61468F	Renaissance
+PA643048	#61468F	Renaissance
+PA794402	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA794510	#61468F	Renaissance
+PA794830	#CE5215	Démocrate (MoDem et Indépendants)
+PA793944	#61468F	Renaissance
+PA794678	#35495E	Rassemblement National
+PA794718	#35495E	Rassemblement National
+PA722398	#61468F	Renaissance
+PA267306	#991414	Gauche démocrate et républicaine - NUPES
+PA793744	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA1567	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA642695	#61468F	Renaissance
+PA719910	#61468F	Renaissance
+PA794214	#61468F	Renaissance
+PA796018	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA333421	#F8D434	Libertés, Indépendants, Outre-mer et Territoires
+PA795808	#77AA79	Écologiste - NUPES
+PA720684	#4565AD	Les Républicains
+PA793592	#35495E	Rassemblement National
+PA795746	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA720822	#35495E	Rassemblement National
+PA793210	#F8D434	Libertés, Indépendants, Outre-mer et Territoires
+PA720720	#CE5215	Démocrate (MoDem et Indépendants)
+PA721976	#CE5215	Démocrate (MoDem et Indépendants)
+PA266808	#4565AD	Les Républicains
+PA720422	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA794234	#32B3CA	Horizons et apparentés
+PA795228	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA721828	#61468F	Renaissance
+PA720862	#61468F	Renaissance
+PA796070	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA794130	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA793094	#4565AD	Les Républicains
+PA720256	#CE5215	Démocrate (MoDem et Indépendants)
+PA643184	#61468F	Renaissance
+PA719190	#61468F	Renaissance
+PA721474	#4565AD	Les Républicains
+PA719914	#CE5215	Démocrate (MoDem et Indépendants)
+PA720170	#61468F	Renaissance
+PA721458	#61468F	Renaissance
+PA719294	#61468F	Renaissance
+PA795990	#61468F	Renaissance
+PA720154	#61468F	Renaissance
+PA793948	#77AA79	Écologiste - NUPES
+PA793452	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA720006	#CE5215	Démocrate (MoDem et Indépendants)
+PA795164	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA719266	#CE5215	Démocrate (MoDem et Indépendants)
+PA335054	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA793182	#35495E	Rassemblement National
+PA794818	#32B3CA	Horizons et apparentés
+PA719488	#CE5215	Démocrate (MoDem et Indépendants)
+PA720908	#32B3CA	Horizons et apparentés
+PA794114	#CE5215	Démocrate (MoDem et Indépendants)
+PA795068	#61468F	Renaissance
+PA719672	#61468F	Renaissance
+PA793860	#CE5215	Démocrate (MoDem et Indépendants)
+PA720696	#F8D434	Libertés, Indépendants, Outre-mer et Territoires
+PA720764	#CE5215	Démocrate (MoDem et Indépendants)
+PA795692	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA719072	#32B3CA	Horizons et apparentés
+PA608826	#4565AD	Les Républicains
+PA794106	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA794994	#4565AD	Les Républicains
+PA719472	#61468F	Renaissance
+PA721442	#4565AD	Les Républicains
+PA793884	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA719376	#61468F	Renaissance
+PA793246	#35495E	Rassemblement National
+PA719558	#CE5215	Démocrate (MoDem et Indépendants)
+PA795046	#61468F	Renaissance
+PA794198	#35495E	Rassemblement National
+PA794930	#61468F	Renaissance
+PA793624	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA795688	#61468F	Renaissance
+PA795482	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA605745	#991414	Gauche démocrate et républicaine - NUPES
+PA721710	#61468F	Renaissance
+PA718710	#61468F	Renaissance
+PA793792	#CE5215	Démocrate (MoDem et Indépendants)
+PA719100	#61468F	Renaissance
+PA795722	#61468F	Renaissance
+PA793322	#4565AD	Les Républicains
+PA721158	#61468F	Renaissance
+PA721410	#4565AD	Les Républicains
+PA718860	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA605963	#61468F	Renaissance
+PA722292	#61468F	Renaissance
+PA795176	#61468F	Renaissance
+PA719006	#61468F	Renaissance
+PA717379	#61468F	Renaissance
+PA793432	#35495E	Rassemblement National
+PA720334	#CE5215	Démocrate (MoDem et Indépendants)
+PA736201	#77AA79	Écologiste - NUPES
+PA794798	#61468F	Renaissance
+PA793816	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA722070	#61468F	Renaissance
+PA795516	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA795124	#CE5215	Démocrate (MoDem et Indépendants)
+PA793110	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA719146	#F8D434	Libertés, Indépendants, Outre-mer et Territoires
+PA720092	#CE5215	Démocrate (MoDem et Indépendants)
+PA794486	#61468F	Renaissance
+PA720754	#61468F	Renaissance
+PA795200	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA794270	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA721118	#991414	Gauche démocrate et républicaine - NUPES
+PA794946	#35495E	Rassemblement National
+PA721262	#61468F	Renaissance
+PA795900	#35495E	Rassemblement National
+PA722390	#4565AD	Les Républicains
+PA719382	#32B3CA	Horizons et apparentés
+PA795136	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA793238	#35495E	Rassemblement National
+PA721170	#61468F	Renaissance
+PA794530	#35495E	Rassemblement National
+PA794502	#35495E	Rassemblement National
+PA720900	#61468F	Renaissance
+PA720952	#77AA79	Écologiste - NUPES
+PA331835	#61468F	Renaissance
+PA721094	#61468F	Renaissance
+PA267429	#4565AD	Les Républicains
+PA795982	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA607193	#61468F	Renaissance
+PA721722	#61468F	Renaissance
+PA794066	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA795374	#CE5215	Démocrate (MoDem et Indépendants)
+PA1008	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA794870	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA774109	#61468F	Renaissance
+PA793904	#35495E	Rassemblement National
+PA795604	#CE5215	Démocrate (MoDem et Indépendants)
+PA793772	#E42313	La France insoumise - Nouvelle Union Populaire écologique et sociale
+PA643192	#DF84B5	Socialistes et apparentés (membre de l’intergroupe NUPES)
+PA721466	#61468F	Renaissance
+PA793500	#61468F	Renaissance
+PA720100	#4565AD	Les Républicains
+PA267336	#61468F	Renaissance
+PA719882	#61468F	Renaissance
+PA721816	#4565AD	Les Républicains
