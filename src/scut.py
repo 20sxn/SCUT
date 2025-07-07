@@ -127,7 +127,13 @@ def _RecClusterDataToTree(data,seq_ids,treenode,counter,distsum,th_mode="simple"
         neg_node.dist = distsum - neg_distsum 
         _RecClusterDataToTree(data[neg_idx],neg_seq_ids,neg_node,counter,neg_distsum,
                               th_mode=th_mode,K=K,mode=mode,n_min=n_min,n_s=n_s,seed=seed)
+        
+    if (len(neg_idx) == 1):
+        neg_node = treenode.add_child(name=neg_seq_ids[0])
+        neg_distsum = (1-data[neg_idx]).sum()
+        neg_node.dist = distsum
 
+    
     if (len(pos_idx) > 1):
         name = "I"+str(counter.get_new_id())
         pos_node = treenode.add_child(name=name)
@@ -136,11 +142,6 @@ def _RecClusterDataToTree(data,seq_ids,treenode,counter,distsum,th_mode="simple"
         _RecClusterDataToTree(data[pos_idx],pos_seq_ids,pos_node,counter,pos_distsum,
                               th_mode=th_mode,K=K,mode=mode,n_min=n_min,n_s=n_s,seed=seed)
 
-    if (len(neg_idx) == 1):
-        neg_node = treenode.add_child(name=neg_seq_ids[0])
-        neg_distsum = (1-data[neg_idx]).sum()
-        neg_node.dist = distsum
-        
     if (len(pos_idx) == 1):
         pos_node = treenode.add_child(name=pos_seq_ids[0])
         pos_distsum = (1-data[pos_idx]).sum()
@@ -181,15 +182,15 @@ def infer_leaf_from_tree_TH(tree,rep):
         th = curr_node.th
         S = curr_node.S
         cd = curr_node.cd
-
+        
         rd = np.asarray(1.0 / np.sqrt(rep.sum(axis=-1))).squeeze()
         rd = np.where(np.isnan(rd), 0, rd)
-        
+
         rep_n = rd * rep * cd
         
         val = (V * rep_n/S).sum()-th
         
-        if val <= 0:
+        if val < 0:
             curr_node = left
         else:
             curr_node = right
